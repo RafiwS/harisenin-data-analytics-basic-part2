@@ -32,7 +32,7 @@ Sebelum dianalisis menggunakan Pivot Table, data mentah telah melalui proses pem
 ### 📸 Cuplikan Hasil Data Cleaning & Clustering
 > *Dokumentasi pengerjaan pembersihan data dan pembuatan kolom baru (`Cluster_Usia` & `Cluster_Pengeluaran`):*
 
-![Hasil Data Cleaning](assets/data_cleaning.png)
+<img width="1647" height="761" alt="image" src="https://github.com/user-attachments/assets/bd96e651-cbd7-4f9a-b0ee-4bccbd037c33" />
 
 ---
 
@@ -42,11 +42,17 @@ Seluruh pertanyaan bisnis dijawab dengan membangun **6 Pivot Table** terpisah un
 ### 📸 Cuplikan Pengerjaan Pivot Table
 | Pivot Table 1 & 2 (Gender & Kategori Produk) | Pivot Table 3 & 4 (Lokasi Kota & Diskon) |
 | :---: | :---: |
-| ![Pivot 1-2](assets/pivot_1_2.png) | ![Pivot 3-4](assets/pivot_3_4.png) |
+| <img width="732" height="482" alt="image" src="https://github.com/user-attachments/assets/67c9d635-4702-4994-acff-1426baec5ea9" />
+   <img width="445" height="462" alt="image" src="https://github.com/user-attachments/assets/8e8daa30-88d0-4d92-8754-30382ab104b9" />
+
+ | <img width="252" height="136" alt="image" src="https://github.com/user-attachments/assets/f2d3d860-97de-4faa-8fba-7e7d02d39c9b" />
+ <img width="495" height="70" alt="image" src="https://github.com/user-attachments/assets/6cae1401-9621-4b10-8a3e-d24172268ed2" /> |
 
 | Pivot Table 5 (Cluster Usia) | Pivot Table 6 (Pengaruh Media Sosial) |
 | :---: | :---: |
-| ![Pivot 5](assets/pivot_5.png) | ![Pivot 6](assets/pivot_6.png) |
+|<img width="262" height="222" alt="Screenshot 2026-10-27 150804" src="https://github.com/user-attachments/assets/0ad88173-1468-4e57-b79b-82cb060e699d" />
+  | <img width="577" height="107" alt="Screenshot 2026-10-27 150817" src="https://github.com/user-attachments/assets/324099a2-dac3-4162-99be-bcd5c6ef22eb" />
+ |
 
 ---
 
