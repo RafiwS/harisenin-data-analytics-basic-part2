@@ -32,27 +32,30 @@ Sebelum dianalisis menggunakan Pivot Table, data mentah telah melalui proses pem
 ### 📸 Cuplikan Hasil Data Cleaning & Clustering
 > *Dokumentasi pengerjaan pembersihan data dan pembuatan kolom baru (`Cluster_Usia` & `Cluster_Pengeluaran`):*
 
-<img width="1647" height="761" alt="image" src="https://github.com/user-attachments/assets/bd96e651-cbd7-4f9a-b0ee-4bccbd037c33" />
+<img width="1647" height="761" alt="Data Cleaning" src="https://github.com/user-attachments/assets/bd96e651-cbd7-4f9a-b0ee-4bccbd037c33" />
 
 ---
 
 ## 🧮 Eksplorasi Data dengan Pivot Table
 Seluruh pertanyaan bisnis dijawab dengan membangun **6 Pivot Table** terpisah untuk mengagregasi total penjualan (`SUM`), frekuensi transaksi (`COUNT`), dan rata-rata nilai pembelian (`AVERAGE`).
 
-### 📸 Cuplikan Pengerjaan Pivot Table
-| Pivot Table 1 & 2 (Gender & Kategori Produk) | Pivot Table 3 & 4 (Lokasi Kota & Diskon) |
-| :---: | :---: |
-| <img width="732" height="482" alt="image" src="https://github.com/user-attachments/assets/67c9d635-4702-4994-acff-1426baec5ea9" />
-   <img width="445" height="462" alt="image" src="https://github.com/user-attachments/assets/8e8daa30-88d0-4d92-8754-30382ab104b9" />
+### 1. Pembelian Berdasarkan Kategori Produk & Gender (Pivot Table 1)
+<img width="732" height="482" alt="Pivot Table 1" src="https://github.com/user-attachments/assets/67c9d635-4702-4994-acff-1426baec5ea9" />
 
- | <img width="252" height="136" alt="image" src="https://github.com/user-attachments/assets/f2d3d860-97de-4faa-8fba-7e7d02d39c9b" />
- <img width="495" height="70" alt="image" src="https://github.com/user-attachments/assets/6cae1401-9621-4b10-8a3e-d24172268ed2" /> |
+### 2. Kategori Produk dengan Penjualan Tertinggi (Pivot Table 2)
+<img width="445" height="462" alt="Pivot Table 2" src="https://github.com/user-attachments/assets/8e8daa30-88d0-4d92-8754-30382ab104b9" />
 
-| Pivot Table 5 (Cluster Usia) | Pivot Table 6 (Pengaruh Media Sosial) |
-| :---: | :---: |
-|<img width="262" height="222" alt="Screenshot 2026-10-27 150804" src="https://github.com/user-attachments/assets/0ad88173-1468-4e57-b79b-82cb060e699d" />
-  | <img width="577" height="107" alt="Screenshot 2026-10-27 150817" src="https://github.com/user-attachments/assets/324099a2-dac3-4162-99be-bcd5c6ef22eb" />
- |
+### 3. Keaktifan Pelanggan Berdasarkan Lokasi Kota (Pivot Table 3)
+<img width="252" height="136" alt="Pivot Table 3" src="https://github.com/user-attachments/assets/f2d3d860-97de-4faa-8fba-7e7d02d39c9b" />
+
+### 4. Analisis Retensi dan Penggunaan Diskon (Pivot Table 4)
+<img width="495" height="70" alt="Pivot Table 4" src="https://github.com/user-attachments/assets/6cae1401-9621-4b10-8a3e-d24172268ed2" />
+
+### 5. Rata-rata Pembelian Berdasarkan Cluster Umur (Pivot Table 5)
+<img width="262" height="222" alt="Pivot Table 5" src="https://github.com/user-attachments/assets/0ad88173-1468-4e57-b79b-82cb060e699d" />
+
+### 6. Pengaruh Media Sosial Terhadap Besarnya Pembelian (Pivot Table 6)
+<img width="577" height="107" alt="Pivot Table 6" src="https://github.com/user-attachments/assets/324099a2-dac3-4162-99be-bcd5c6ef22eb" />
 
 ---
 
@@ -61,23 +64,23 @@ Berikut adalah visualisasi data yang dirancang di lembar kerja `c. Visualisasi D
 
 ### 1. Total Penjualan per Kategori Produk
 ![Chart Kategori Produk](assets/chart_kategori.png)
-* **Analisis**: Kategori **Sports & Outdoors** unggul di posisi pertama (Rp 236,65 Juta), diikuti oleh *Jewelry & Accessories* (Rp 232,34 Juta). Sebaliknya, *Arts & Crafts* berada di urutan paling bawah (Rp 116,71 Juta).
+- **Analisis**: Kategori **Sports & Outdoors** unggul di posisi pertama (Rp 236,65 Juta), diikuti oleh *Jewelry & Accessories* (Rp 232,34 Juta). Sebaliknya, *Arts & Crafts* berada di urutan paling bawah (Rp 116,71 Juta).
 
 ### 2. Preferensi Kategori Produk Berdasarkan Gender
 ![Chart Preferensi Gender](assets/chart_gender.png)
-* **Analisis**: Terlihat kontras yang jelas di mana pelanggan wanita mendominasi pembelian produk bayi dan perawatan diri, sedangkan pelanggan pria mendominasi produk buku, olahraga, dan elektronik.
+- **Analisis**: Terlihat kontras yang jelas di mana pelanggan wanita mendominasi pembelian produk bayi dan perawatan diri, sedangkan pelanggan pria mendominasi produk buku, olahraga, dan elektronik.
 
 ### 3. Kontribusi Total Pembelian Berdasarkan Kota
 ![Chart Kontribusi Kota](assets/chart_kota.png)
-* **Analisis**: Kota **Makassar** menjadi kontributor pendapatan terbesar bagi SuryaMart (Rp 806,80 Juta), mengungguli Bandung (Rp 769,13 Juta) dan Jakarta (Rp 746,20 Juta).
+- **Analisis**: Kota **Makassar** menjadi kontributor pendapatan terbesar bagi SuryaMart (Rp 806,80 Juta), mengungguli Bandung (Rp 769,13 Juta) dan Jakarta (Rp 746,20 Juta).
 
 ### 4. Pengaruh Penggunaan Diskon Terhadap Nilai Transaksi
 ![Chart Dampak Diskon](assets/chart_diskon.png)
-* **Analisis**: Pelanggan yang menggunakan diskon mencatatkan frekuensi transaksi lebih banyak (525 transaksi) dengan nilai rata-rata pembelanjaan yang tetap stabil di kisaran Rp 4,26 Juta.
+- **Analisis**: Pelanggan yang menggunakan diskon mencatatkan frekuensi transaksi lebih banyak (525 transaksi) dengan nilai rata-rata pembelanjaan yang tetap stabil di kisaran Rp 4,26 Juta.
 
 ### 5. Rata-rata Nilai Pembelian Berdasarkan Cluster Usia
 ![Chart Cluster Usia](assets/chart_usia.png)
-* **Analisis**: Kelompok usia produktif **27–29 tahun** mencatatkan rata-rata nilai transaksi tertinggi sebesar Rp 4.465.280 per transaksi.
+- **Analisis**: Kelompok usia produktif **27–29 tahun** mencatatkan rata-rata nilai transaksi tertinggi sebesar Rp 4.465.280 per transaksi.
 
 ---
 
@@ -97,4 +100,4 @@ Berikut adalah matriks rangkuman *Executive Summary* yang disusun pada lembar ke
 ---
 
 ## 👤 Penulis
-**Ananda Widi Alrafi - 1306011**  
+**Ananda Widi Alrafi - 1306011**
