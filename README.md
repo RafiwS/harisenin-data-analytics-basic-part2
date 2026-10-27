@@ -64,22 +64,27 @@ Berikut adalah visualisasi data yang dirancang di lembar kerja `c. Visualisasi D
 
 ### 1. Total Penjualan per Kategori Produk
 <img width="495" height="307" alt="image" src="https://github.com/user-attachments/assets/9ca90d0e-79b0-44de-a294-3965e9655a7c" />
+
 - **Analisis**: Kategori **Sports & Outdoors** unggul di posisi pertama (Rp 236,65 Juta), diikuti oleh *Jewelry & Accessories* (Rp 232,34 Juta). Sebaliknya, *Arts & Crafts* berada di urutan paling bawah (Rp 116,71 Juta).
 
 ### 2. Preferensi Kategori Produk Berdasarkan Gender
 <img width="598" height="370" alt="image" src="https://github.com/user-attachments/assets/c10fd46a-08bb-4f9f-8d5a-50fb2eec8953" />
+
 - **Analisis**: Terlihat kontras yang jelas di mana pelanggan wanita mendominasi pembelian produk bayi dan perawatan diri, sedangkan pelanggan pria mendominasi produk buku, olahraga, dan elektronik.
 
 ### 3. Kontribusi Total Pembelian Berdasarkan Kota
 <img width="592" height="371" alt="image" src="https://github.com/user-attachments/assets/87632096-0691-4849-b815-2bd6acf4623c" />
+
 - **Analisis**: Kota **Makassar** menjadi kontributor pendapatan terbesar bagi SuryaMart (Rp 806,80 Juta), mengungguli Bandung (Rp 769,13 Juta) dan Jakarta (Rp 746,20 Juta).
 
 ### 4. Pengaruh Penggunaan Diskon Terhadap Nilai Transaksi
 <img width="596" height="370" alt="image" src="https://github.com/user-attachments/assets/77805ec7-e324-4f33-8a87-d2ff1546f62b" />
+
 - **Analisis**: Pelanggan yang menggunakan diskon mencatatkan frekuensi transaksi lebih banyak (525 transaksi) dengan nilai rata-rata pembelanjaan yang tetap stabil di kisaran Rp 4,26 Juta.
 
 ### 5. Rata-rata Nilai Pembelian Berdasarkan Cluster Usia
 <img width="592" height="370" alt="image" src="https://github.com/user-attachments/assets/322e2a6d-2788-4513-a8b2-a805f9f45d87" />
+
 - **Analisis**: Kelompok usia produktif **27–29 tahun** mencatatkan rata-rata nilai transaksi tertinggi sebesar Rp 4.465.280 per transaksi.
 
 ---
